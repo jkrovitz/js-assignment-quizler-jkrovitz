@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "inquirer": "^5.0.0",
+    "lodash": "^4.17.21",
     "vorpal": "^1.12.0"
   }
 }
